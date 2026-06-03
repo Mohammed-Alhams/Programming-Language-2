@@ -2,6 +2,8 @@
 
 Welcome to the **User Management** assignment. This project dives deeper into constructor design variations, input validation, data normalization, and state management using custom helper methods.
 
+[⇠ Return to Tasks List in Main README](./README.md#tasks-list)
+
 ## Covered Topics
 This assignment focuses on the following core Object-Oriented Programming (OOP) concepts in Java:
 * **Advanced Constructor Overloading:** Providing highly flexible initialization options (such as registering with just an email, just credentials, or a full profile).
