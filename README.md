@@ -28,6 +28,7 @@ root/
 
 ---
 
+<a name="tasks-list"></a>
 ## 🛠️ Modules Overview & Navigation
 
 | Task Package | Difficulty | Core OOP Concepts Explored | Direct Link                                                            |

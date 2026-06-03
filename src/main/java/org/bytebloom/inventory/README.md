@@ -2,6 +2,8 @@
 
 Welcome to the **InventoryItem** assignment. This project expands on object-oriented design by introducing a shared central **Audit Log** using lists, chaining constructors, and monitoring mutable state changes across instances.
 
+[⇠ Return to Tasks List in Main README](/../../../../../../README.md#tasks-list)
+
 ## Covered Topics
 This assignment focuses on the following core Object-Oriented Programming (OOP) concepts in Java:
 * **Constructor Chaining (`this(...)`):** Reducing code duplication by having one constructor call another within the same class.
