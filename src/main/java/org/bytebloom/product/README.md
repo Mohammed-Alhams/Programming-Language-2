@@ -4,7 +4,6 @@
 
 Welcome to the **Product Class** assignment. This project is a simple Java implementation designed to model a real-world product with essential properties, auto-incrementing IDs, and overloaded constructors.
 
-[⇠ Return to Tasks List in Main README](/../../../../../../README.md#tasks-list)
 
 ## Covered Topics
 

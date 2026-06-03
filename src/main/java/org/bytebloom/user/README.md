@@ -2,7 +2,6 @@
 
 Welcome to the **User Management** assignment. This project dives deeper into constructor design variations, input validation, data normalization, and state management using custom helper methods.
 
-[⇠ Return to Tasks List in Main README](/../../../../../../README.md#tasks-list)
 
 ## Covered Topics
 This assignment focuses on the following core Object-Oriented Programming (OOP) concepts in Java:
