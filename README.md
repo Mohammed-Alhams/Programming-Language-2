@@ -33,8 +33,8 @@ root/
 | Task Package | Difficulty | Core OOP Concepts Explored | Direct Link                                                            |
 | --- | --- | --- |------------------------------------------------------------------------|
 | **`product`** | 🟢 Beginner | Encapsulation, `private` modifiers, simple `static` counters for ID generation. | [Go to Product Task ➔](/src/main/java/org/bytebloom/product/README.md) |
-| **`inventory`** | 🟡 Intermediate | Constructor chaining (`this()`), global tracking lists via `static ArrayList`. | [Go to Inventory Task ➔](/inventory/README.md)                         |
-| **`user`** | 🔴 Advanced | Matrix constructor overloading, input validation guard clauses, state data masking. | [Go to User Task ➔](/user/README.md)                                   |
+| **`inventory`** | 🟡 Intermediate | Constructor chaining (`this()`), global tracking lists via `static ArrayList`. | [Go to Inventory Task ➔](/src/main/java/org/bytebloom/inventory/README.md)                         |
+| **`user`** | 🔴 Advanced | Matrix constructor overloading, input validation guard clauses, state data masking. | [Go to User Task ➔](/src/main/java/org/bytebloom/user/README.md)                                   |
 
 ---
 
