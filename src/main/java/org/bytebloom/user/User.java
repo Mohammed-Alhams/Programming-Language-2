@@ -1,4 +1,4 @@
-package org.bytebloom;
+package org.bytebloom.user;
 
 
 public class User {
@@ -26,11 +26,11 @@ public class User {
 
     public User(String email, String password, String username) {
 
-        if (isValidEmail(email)) {
+        if (!isValidEmail(email)) {
             System.out.println("Invalid email");
-        } else if (isValidPassword(password)) {
+        } else if (!isValidPassword(password)) {
             System.out.println("Password must be at least 6 characters");
-        } else if (isValidUsername(username)) {
+        } else if (!isValidUsername(username)) {
             System.out.println("Username must be at least 3 characters");
         } else {
             this.id = counter;
