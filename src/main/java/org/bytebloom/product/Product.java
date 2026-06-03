@@ -1,4 +1,4 @@
-package org.bytebloom;
+package org.bytebloom.product;
 
 public class Product {
 

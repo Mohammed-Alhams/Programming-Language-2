@@ -1,4 +1,4 @@
-package org.bytebloom;
+package org.bytebloom.inventory;
 
 import java.util.ArrayList;
 

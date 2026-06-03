@@ -1,5 +1,7 @@
 package org.bytebloom;
 
+import org.bytebloom.inventory.InventoryItem;
+
 import java.util.ArrayList;
 
 public class Main {
